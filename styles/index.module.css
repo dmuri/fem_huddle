@@ -1,0 +1,12 @@
+
+
+.social_media_icon {
+
+    filter: invert(1);
+
+}
+
+.social_media_icon:hover {
+    filter: invert(67%) sepia(51%) saturate(264%) hue-rotate(268deg);
+
+}

@@ -26,7 +26,7 @@ export default function Home() {
               <p className="text-white text-md lg:text-lg text-center md:text-left">Huddle re-imagines the way we build communities. You have a
                 voice, but so does your audience. Create connections with your users as you engage in genuine
                 discussion.</p>
-              <button className="bg-white text-xl text-primary-violet py-5 px-16 rounded-full"
+              <button className="bg-white text-xl text-primary-violet py-5 px-16 hover:text-white hover:bg-primary-softmagenta transition duration-100 rounded-full"
               >Register
               </button>
 
